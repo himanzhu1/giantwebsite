@@ -1,0 +1,22 @@
+*{
+		margin: 0; padding: 0; box-shadow: border-box;	}
+
+		
+		.nav-item a{
+
+			color: white;
+
+
+
+		}
+
+		p{
+			font-size: 0.9rem;
+			line-height: 1.6;
+
+			font-weight: 400;
+			color: #606060;
+		}
+
+
+		
